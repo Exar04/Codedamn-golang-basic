@@ -1,1 +1,2 @@
 tabs: ['main.go']
+run-button: go run $$file
